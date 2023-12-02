@@ -10,3 +10,6 @@ def multifly(a, b):
 
 def divide(a, b):
     return a/b
+
+def get_sum(n):
+    return n(n+1)/2
